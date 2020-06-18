@@ -11,7 +11,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
 
 /**
- * Created by user on 4/13/2016.
+ * Created by Basu on 4/13/2016.
  */
 public class CustomImageView extends ImageView {
 
